@@ -1,6 +1,6 @@
-- 👀 I’m interested in [sto cazzo]()
-- 🌱 I’m currently learning [sta minchia]()
-- 📖 I’m currently working at [sta ciola]()
+- 👀 I’m interested in [bo]()
+- 🌱 I’m currently learning [qwello]()
+- 📖 I’m currently working at [sj]()
 
 --------------------------------------------
 
