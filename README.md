@@ -1,7 +1,6 @@
-- 👀 I’m interested in [bo]()
-- 🌱 I’m currently learning [qwello]()
-- 📖 I’m currently working at [sj]()
-
---------------------------------------------
-
-  bale suca
+- 👴🏿 19 (almost 20) Years old
+- ⭐ Likes Game Development, C++, C# and Web Development
+- 🌱 Currently learning C#, MSSQL and Unity
+- 📖 Currently working on a game project
+---
+  **Working on a secret stand-alone game project👀**
